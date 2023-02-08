@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "schoolbot-376418",
+  "private_key_id": "a782ef8b9eb0b4bb97235de5d071cbdf48860c32",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCpTRvje2dSSdHi\n/WjBB6AFsQdQbHPqCU6yOgiGHtou2btzBzs3ydtcDCuAmRO4yBJxs0NjZPFEmWw3\nER+knJuod1sL2Tcp51x1mitOJvWZ1RrMqlurd+XRHJBmF9mEOE/HITUXjYa+p6Iz\nE39qyj1COGgrDw39408VHQfsYODk3oyTUK+x2JUS54voih50d4+j2Y0mPHl5PtJd\neZf0R+xpvY1SplzWYVoDtzmSMO8KoHMMqYaL2tZsYjFB/oyS0RYcZWmUezoesiBw\ntolhauPp4rFIagJ7NWFuuCJkiFh3xgOw2KLx+BWvmecIfBZSQb0g0lHpltAQ+epX\n4mV9Eoe5AgMBAAECggEADz/0GWVJ/QJLvtnLKAoHCsQzr7WZKlVcypaKIoSgbBRu\nO1IFLkUHNo8dEwgW2+/fo3C9ivQyfFaihgJLmqEFr2LS52oROzvNGwXATVmaiVkG\nATX+LF+QKqobQqr2y59j5kCyPtUfdEh2xomE0mp1oqOglHJWdQ5W1wTGrC7cyxiw\nCjrabyWj0chKGu1ABjCh8Id6O4Tw7VcReLKru/hsitTJ8niikFhYsRxgsHxew4z1\nE13evOOwej5O7pGDJMU9j0BAnmNNmFCBxnKY4DmymBYENqfMX7QutWuNj0JXgclO\nLTabpGq4wumCkJsopspq6Bmn/axPvA1NK25oXKC81QKBgQDpaTN8yGQtb4RkKYIL\nX3Kf6AXcxLjT4EJpNtSOoyJ50jg1bG6Hq7RLUFm+vfgUjHzguQqGxvg9/4ZxzctJ\nxudUjXupb0QNeJII68mKUW11hrcBYJY5lPIwmJiSmHW1auqvXOHoP5hsArQJom2b\nGz7LGI+fzmM/r+PD7tkw1aX+NQKBgQC5r5PO9toAeVmkLOfKbNFTS320ZHSiPEJK\n051JpOwjlDMp5f9pfWwPpUz821prMo2pMCkzqreJ7t4wwLYFj/m+aiLWLhZWF0B4\ntEw5ic0833Pg4USGK4a55p+fSXV3mlMYzrLg8cfUtdSS28C8l1tWnmmRwHd9aZ4B\nhHjvqEEj9QKBgQCNZGEAMhQdQfSdCFfys7soCtGiTrj4AF26hrB0R3ZW/XV3R1wd\na3IoPWBgH4vsRr5PE0jBJD60r9mtjtCavJbdrWc/2FsNHgC4zryjwXfhPd4WQ4A9\nGXEs5wNlql2DrGTGHinrGrsmkuyk+XQUBYkgVpyKXefZaJ88za9b2dBYEQKBgQCX\n8yQjk0HmbWd7v/uWXOIXJYmimyoOsP0WuoDWCQ3sN5R+zuXp72cEjqKnsOEXI/Fk\n6DJvQ16ak0xj3O+XMbCPr87+Mgy5OqHZpMFTvH6lN75d4jnvCaNgcWdiM/zaeQFT\nJaKgDXsXiAyCeS4JplpqUYvWaAfgKxPP7hYBGFDmGQKBgHUZLzeKnaznG/peDxsv\nMohbwKGTAQNJmXE4QpzW+iukY9sHaEoj4EStGT0JAVZT86yEFQPJLPUhjK03RcrH\nEPGBfZY43TGA24cz+6IFkbV2fcUcuwdZuR7oaPnYAx2Zfhcv2Zi8vD2KYFYLQn+4\nX2ZhblqXQqfDmQxitODpcJsy\n-----END PRIVATE KEY-----\n",
+  "client_email": "schoolbot@schoolbot-376418.iam.gserviceaccount.com",
+  "client_id": "104616639560478647631",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/schoolbot%40schoolbot-376418.iam.gserviceaccount.com"
+}
